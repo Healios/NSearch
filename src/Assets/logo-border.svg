@@ -1,0 +1,7 @@
+<svg width="120" height="120" xmlns="http://www.w3.org/2000/svg">
+  <path opacity=".6" d="M7 7h106v106H7z"/>
+  <path fill="#45387a" stroke="#fff" stroke-width="5" d="M10 10h100v100H10z"/>
+  <text x="28" y="76" fill="#fff" font-size="3rem" font-weight="700" font-family="Segoe UI">
+    NS
+  </text>
+</svg>

@@ -14,7 +14,7 @@ module.exports = {
         productName: "NSearch",
         win: {
           target: ["nsis", "portable"],
-          // icon: __dirname + "/src/Assets/icon.ico"
+          icon: __dirname + "/src/Assets/logo.ico",
         }
       }
     }
